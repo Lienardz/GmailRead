@@ -1,0 +1,15 @@
+{
+  "name": "gmailread",
+  "version": "1.0.0",
+  "description": "API Gmail",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Lienardz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "qs": "^6.10.3"
+  }
+}

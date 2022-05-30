@@ -1,0 +1,39 @@
+Client ID : 358467865769-i6ajje7v6qe5jm4tihell2qr4v6lloeh.apps.googleusercontent.com
+
+Client Secrets: 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
+
+Code: 4/0AX4XfWj19_uM4Z4vTJKolGZtLsEoiVKo6mpUfYXmA9NtYqH7H6fc7_0h5AcfYG2cEZHSFQ&scope=https://mail.google.com/
+
+"refresh_token": "1//0dVLYRlL5JvASCgYIARAAGA0SNwF-L9IrXD6oh52L7agiYe3BE8Z02_v7l5Yk3h41PgEMVt2zTWImMBqF_NRXzttCAsarEsYvyF8",
+
+
+---------------------------------------------------------------------------------------------
+
+https://accounts.google.com/o/oauth2/v2/auth?scope=https://mail.google.com&access_type=offline&redirect_uri=http://localhost&response_type=code&client_id=358467865769-i6ajje7v6qe5jm4tihell2qr4v6lloeh.apps.googleusercontent.com
+
+---------------------------------------------------------------------------------------------
+
+http://localhost/?code=4/0AX4XfWj19_uM4Z4vTJKolGZtLsEoiVKo6mpUfYXmA9NtYqH7H6fc7_0h5AcfYG2cEZHSFQ&scope=https://mail.google.com/
+
+---------------------------------------------------------------------------------------------
+
+{
+    "access_token": "ya29.a0ARrdaM_kbzJuyxx2vhzsgCgBvdMMMVIB0-o4zIYozebhUgkHMaLhayi17kFz1u9ahOk3LZn30sRL1KgyoA17JFT19axieXtByUhGmF5mfmVjj6tZh488tqdggrlu1oWG1KH4rwYdDz_jnEhH4AMd8W4I6GFl",
+    "expires_in": 3599,
+    "refresh_token": "1//0dVLYRlL5JvASCgYIARAAGA0SNwF-L9IrXD6oh52L7agiYe3BE8Z02_v7l5Yk3h41PgEMVt2zTWImMBqF_NRXzttCAsarEsYvyF8",
+    "scope": "https://mail.google.com/",
+    "token_type": "Bearer"
+}
+
+----------------------------------------------------------------------------------------------
+
+{
+    "access_token": "ya29.a0ARrdaM_R_EhnY13-aFztBMwHE07cRub6KaWiome_s7wJvX4_tLKP-RekhflOEI3gaukBAJxaQx-0RL-Vz1oOjrm5bJ8MOVYzMFGHxBl7CWFXHDK3TYxJqeFIiM38qwU5GZ5gA_UvPYVZ3gmmlBnYWb-AQfx8",
+    "expires_in": 3599,
+    "scope": "https://mail.google.com/",
+    "token_type": "Bearer"
+}
+
+----------------------------------------------------------------------------------------------
+
+https://www.googleapis.com/gmail/v1/users/me/messages?q=subject:GEECAlumni] GEE Alam Sutera Newsletter Mei - III
